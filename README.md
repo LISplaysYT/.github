@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm LIS</h1>
 <h3 align="center">A passionate fullstack developer from the USA 🦅🔫</h3>
 
-- 🔭 I’m currently working on [StormX](https://stormx.netlify.app) and [LoungeF2X](https://loungef2x.web.app)
+- 🔭 I’m currently working on [StormX](https://stormx.bot.nu) and [LoungeF2X](https://loungef2x.web.app)
 
-- 🤝 I’m looking for help with [StormX](https://stormx.netlify.app) and [LoungeF2X](https://loungef2x.web.app)
+- 🤝 I’m looking for help with [StormX](https://stormx.bot.nu) and [LoungeF2X](https://loungef2x.web.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LISPlaysYT](https://github.com/LISPlaysYT)
 
